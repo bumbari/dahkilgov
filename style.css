@@ -1,9 +1,9 @@
 .p_grid_image {
-	width: 50%;
+	width: 45%;
 	float: left;
 }
 .p_grid_title {
-	width: 45%;
+	width: 50%;
 	float: right;
 }
 .p_img {
@@ -31,7 +31,7 @@
 .p_content {
 	text-align: left;
 	font-size: 2vw;
-	margin: 1vw;
+	margin: 0.5vw;
 }
 .p_subcontent {
 	text-align: left;
@@ -56,14 +56,28 @@
 .header_title {
 	position: relative;
 	top: 10px;
-	left: 10px;
+	font-size: 1vw;
 }
 .header_img {
 	float: left;
 	width: 40px;
 	heigh: 40px;
 	border: 0;
+	margin-right: 10px;
 }
 .header_a {
 	text-decoration: none;
+}
+.header_nav {
+	text-align: left; 
+	margin-bottom: 20px;
+	font-size: 1vw;
+}
+.p_grid_inh {
+	width: 90%;
+	margin: 3vw;
+}
+.p_grid_eng, .p_grid_rus, .p_grid_che {
+	width: 90%;
+	margin: 3vw;
 }
