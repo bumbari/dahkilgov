@@ -1,3 +1,4 @@
+@import url("./gill_sans/gill_sans.css");
 .p_grid_image {
 	width: 45%;
 	float: left;
@@ -53,7 +54,7 @@
 .gold_metallic {
 	color: #D4AF37;
 }
-.header_title {
+.header_title1 {
 	position: relative;
 	top: 10px;
 	font-size: 1vw;
@@ -61,7 +62,7 @@
 .header_img {
 	float: left;
 	width: 40px;
-	heigh: 40px;
+	height: 40px;
 	border: 0;
 	margin-right: 10px;
 }
@@ -69,9 +70,8 @@
 	text-decoration: none;
 }
 .header_nav {
-	text-align: left; 
+	text-align: center; 
 	margin-bottom: 20px;
-	font-size: 1vw;
 }
 .p_grid_inh {
 	width: 90%;
@@ -80,4 +80,21 @@
 .p_grid_eng, .p_grid_rus, .p_grid_che {
 	width: 90%;
 	margin: 3vw;
+}
+/*
+	font-family:'Gill Sans Std Regular';
+pre { 
+	font-family: Gill Sans Std Regular; 
+	font-size: 13px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+	line-height: 18.5667px; 
+	white-space: pre-wrap !important;
+}
+*/
+pre {
+	font-family:'Gill Sans';
+	font-weight:normal;
+	white-space: pre-wrap !important;
 }
