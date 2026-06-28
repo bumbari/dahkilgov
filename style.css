@@ -13,30 +13,24 @@
 .p_number {
 	text-align: center;
 	font-weight: bold;
-	font-size: 3vw;
 }
 .p_title {
 	text-align: center;
 	font-weight: bold;
-	font-size: 3vw;
 }
 .p_subtitle {
 	font-weight: 600;
 	text-align: center;
-	font-size: 2vw;
 }
 .p_subtitle_2 {
 	text-align: center;
-	font-size: 1.5vw;
 }
 .p_content {
 	text-align: left;
-	font-size: 2vw;
 	margin: 0.5vw;
 }
 .p_subcontent {
 	text-align: left;
-	font-size: 1.5vw;
 	margin: 1vw;
 }
 
@@ -47,17 +41,9 @@
 	width: 30%; 
 	align: center
 }
-.p_title, .p_number {
-	font-size: 3vw;
-}
 
 .gold_metallic {
 	color: #D4AF37;
-}
-.header_title1 {
-	position: relative;
-	top: 10px;
-	font-size: 1vw;
 }
 .header_img {
 	float: left;
@@ -75,11 +61,11 @@
 }
 .p_grid_inh {
 	width: 90%;
-	margin: 3vw;
+	margin: 2vw;
 }
 .p_grid_eng, .p_grid_rus, .p_grid_che {
 	width: 90%;
-	margin: 3vw;
+	margin: 2vw;
 }
 /*
 	font-family:'Gill Sans Std Regular';
