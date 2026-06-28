@@ -22,24 +22,12 @@
 	font-weight: 600;
 	text-align: center;
 }
-.p_subtitle_2 {
-	text-align: center;
-}
-.p_content {
-	text-align: left;
-	margin: 0.5vw;
-}
-.p_subcontent {
-	text-align: left;
-	margin: 1vw;
-}
-
 .p_newline {
 	clear: both;
 }
 .hr_newline {
 	width: 30%; 
-	align: center
+	align: center;
 }
 
 .gold_metallic {
@@ -59,28 +47,21 @@
 	text-align: center; 
 	margin-bottom: 20px;
 }
-.p_grid_inh {
+.p_grid_inh, .p_grid_eng, .p_grid_rus, .p_grid_che {
 	width: 90%;
 	margin: 2vw;
 }
-.p_grid_eng, .p_grid_rus, .p_grid_che {
-	width: 90%;
-	margin: 2vw;
-}
-/*
-	font-family:'Gill Sans Std Regular';
-pre { 
-	font-family: Gill Sans Std Regular; 
-	font-size: 13px; 
-	font-style: normal; 
-	font-variant: normal; 
-	font-weight: 400; 
-	line-height: 18.5667px; 
-	white-space: pre-wrap !important;
-}
-*/
 pre {
 	font-family:'Gill Sans';
-	font-weight:normal;
 	white-space: pre-wrap !important;
+}
+.lang_label {
+	 background-color: green; 
+	 color: white; 
+	 font-size: smaller;
+	 padding-left: 1ex;
+	 padding-right: 1ex;
+}
+h2, h3 {
+	text-align: center;
 }
