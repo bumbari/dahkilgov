@@ -46,8 +46,14 @@
 .header_nav {
 	text-align: center; 
 	margin-bottom: 20px;
+	display: inline;
+	float: right;
 }
-.p_grid_inh, .p_grid_eng, .p_grid_rus, .p_grid_che {
+.footer_channel_name {
+	display: inline;
+	float: left;
+}
+.p_section {
 	width: 90%;
 	margin: 2vw;
 }
