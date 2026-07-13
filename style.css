@@ -75,3 +75,6 @@ pre i {
 	color: green;
 	font-weight: bold;
 }
+pre div {
+	display: inline;
+}
