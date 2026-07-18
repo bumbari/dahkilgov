@@ -1,0 +1,1028 @@
+[
+  {
+    "file": "p_001.html",
+    "num": "№ 1",
+    "title_rus": "Его благородство сильнее моих слов",
+    "proverb_ids": [777, 1356, 1479, 1971, 1974, 1975, 1984, 1993, 1995, 2012, 2017, 270]
+  },
+  {
+    "file": "p_002.html",
+    "num": "№ 2",
+    "title_rus": "Гибель Пиръона",
+    "proverb_ids": [403, 1250, 1251, 1257, 1544, 1655]
+  },
+  {
+    "file": "p_003.html",
+    "num": "№ 3",
+    "title_rus": "Утерянную честь не вернуть",
+    "proverb_ids": [208, 396, 497, 586, 1266, 1371, 1741, 1829]
+  },
+  {
+    "file": "p_004.html",
+    "num": "№ 4",
+    "title_rus": "Кто любит меня, тот любит мой желудок",
+    "proverb_ids": [334, 350, 391, 439, 440, 551, 776, 795, 1488, 1703, 1832, 1994]
+  },
+  {
+    "file": "p_005.html",
+    "num": "№ 5",
+    "title_rus": "Сокол и ворона",
+    "proverb_ids": [280, 282, 295, 539, 868, 869, 871, 1104, 1156, 1543, 1862]
+  },
+  {
+    "file": "p_006.html",
+    "num": "№ 6",
+    "title_rus": "Неприкаянная ворона",
+    "proverb_ids": [80, 783, 1411, 1471, 1516, 1651, 1868]
+  },
+  {
+    "file": "p_007.html",
+    "num": "№ 7",
+    "title_rus": "Осел, стремившийся стать лошадью",
+    "proverb_ids": [229, 232, 236, 238, 246, 255, 349, 494, 688, 950, 1835]
+  },
+  {
+    "file": "p_008.html",
+    "num": "№ 8",
+    "title_rus": "Осел, захотевший стать львом",
+    "proverb_ids": [239, 984, 1293, 1349]
+  },
+  {
+    "file": "p_009.html",
+    "num": "№ 9",
+    "title_rus": "Очень меня огорчило",
+    "proverb_ids": [231, 233, 235, 237, 243, 244, 1109, 1112, 1322, 1968]
+  },
+  {
+    "file": "p_010.html",
+    "num": "№ 10",
+    "title_rus": "Лошади прогнали мула",
+    "proverb_ids": [234, 241, 335, 962, 978, 1222, 1983, 2089]
+  },
+  {
+    "file": "p_011.html",
+    "num": "№ 11",
+    "title_rus": "Жеребчиком выпитое молоко",
+    "proverb_ids": [240, 959, 1632, 1942]
+  },
+  {
+    "file": "p_012.html",
+    "num": "№ 12",
+    "title_rus": "За то, что вы ему потворствуете",
+    "proverb_ids": [230, 1141, 2003]
+  },
+  {
+    "file": "p_013.html",
+    "num": "№ 13",
+    "title_rus": "Шесть лепешек",
+    "proverb_ids": [1223, 1341]
+  },
+  {
+    "file": "p_014.html",
+    "num": "№ 14",
+    "title_rus": "И я люблю своего сына",
+    "proverb_ids": [247, 2077]
+  },
+  {
+    "file": "p_015.html",
+    "num": "№ 15",
+    "title_rus": "Любовь отца к сыну",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_016.html",
+    "num": "№ 16",
+    "title_rus": "Рука матери",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_017.html",
+    "num": "№ 17",
+    "title_rus": "Как отец сыну невесту выбрал",
+    "proverb_ids": [112, 1459]
+  },
+  {
+    "file": "p_018.html",
+    "num": "№ 18",
+    "title_rus": "Лучше бы удержал в голове",
+    "proverb_ids": [1962, 2083]
+  },
+  {
+    "file": "p_019.html",
+    "num": "№ 19",
+    "title_rus": "Тайный совет отца",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_020.html",
+    "num": "№ 20",
+    "title_rus": "Из-за чего потомки Якуба лишились пророческого сана",
+    "proverb_ids": [405, 1150]
+  },
+  {
+    "file": "p_021.html",
+    "num": "№ 21",
+    "title_rus": "Мои снохи хорошие",
+    "proverb_ids": [603]
+  },
+  {
+    "file": "p_022.html",
+    "num": "№ 22",
+    "title_rus": "Сосед дороже денег",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_023.html",
+    "num": "№ 23",
+    "title_rus": "Твои сыновья не сделают того, что ты не сделал",
+    "proverb_ids": [1474]
+  },
+  {
+    "file": "p_024.html",
+    "num": "№ 24",
+    "title_rus": "Во всем он виноват",
+    "proverb_ids": [1567]
+  },
+  {
+    "file": "p_025.html",
+    "num": "№ 25",
+    "title_rus": "Изгнание напавших",
+    "proverb_ids": [75, 351, 353, 912, 1103, 1948]
+  },
+  {
+    "file": "p_026.html",
+    "num": "№ 26",
+    "title_rus": "Сделай корзину покрепче",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_027.html",
+    "num": "№ 27",
+    "title_rus": "Жены обкорнали мужа",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_028.html",
+    "num": "№ 28",
+    "title_rus": "Оказывается, ты косоглазый",
+    "proverb_ids": [447, 1340, 1908]
+  },
+  {
+    "file": "p_029.html",
+    "num": "№ 29",
+    "title_rus": "Мужчина, который храбр перед женой",
+    "proverb_ids": [342, 922, 1342, 1345]
+  },
+  {
+    "file": "p_030.html",
+    "num": "№ 30",
+    "title_rus": "Настоящий мужчина с женами не дерется",
+    "proverb_ids": [252, 1343, 1987]
+  },
+  {
+    "file": "p_031.html",
+    "num": "№ 31",
+    "title_rus": "Мужчина, который не слушается жены",
+    "proverb_ids": [1344]
+  },
+  {
+    "file": "p_032.html",
+    "num": "№ 32",
+    "title_rus": "Правда сильна",
+    "proverb_ids": [1514]
+  },
+  {
+    "file": "p_033.html",
+    "num": "№ 33",
+    "title_rus": "О хорошей жене",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_034.html",
+    "num": "№ 34",
+    "title_rus": "Вопросы Шамиля",
+    "proverb_ids": [250]
+  },
+  {
+    "file": "p_035.html",
+    "num": "№ 35",
+    "title_rus": "Просите хорошего мужа",
+    "proverb_ids": [527]
+  },
+  {
+    "file": "p_036.html",
+    "num": "№ 36",
+    "title_rus": "Клятва волка",
+    "proverb_ids": [696]
+  },
+  {
+    "file": "p_037.html",
+    "num": "№ 37",
+    "title_rus": "Возвращение Благодати",
+    "proverb_ids": [1882, 1947]
+  },
+  {
+    "file": "p_038.html",
+    "num": "№ 38",
+    "title_rus": "Это моя родина",
+    "proverb_ids": [1890]
+  },
+  {
+    "file": "p_039.html",
+    "num": "№ 39",
+    "title_rus": "Советы Идриса",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_040.html",
+    "num": "№ 40",
+    "title_rus": "Только человеку дан ум",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_041.html",
+    "num": "№ 41",
+    "title_rus": "Когда распределяли ум",
+    "proverb_ids": [242, 1650, 1915, 2081]
+  },
+  {
+    "file": "p_042.html",
+    "num": "№ 42",
+    "title_rus": "Я боюсь, что из-за тебя мне влетит",
+    "proverb_ids": [1092]
+  },
+  {
+    "file": "p_043.html",
+    "num": "№ 43",
+    "title_rus": "Содержание собаки в пещере",
+    "proverb_ids": [618, 763, 915, 979, 1159, 1867]
+  },
+  {
+    "file": "p_044.html",
+    "num": "№ 44",
+    "title_rus": "Подушку положил в ногах",
+    "proverb_ids": [788, 1855, 2071, 2086]
+  },
+  {
+    "file": "p_045.html",
+    "num": "№ 45",
+    "title_rus": "Голова должна быть одна",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_046.html",
+    "num": "№ 46",
+    "title_rus": "Делай то, чего не сделать нельзя",
+    "proverb_ids": [550, 718, 1550, 1717]
+  },
+  {
+    "file": "p_047.html",
+    "num": "№ 47",
+    "title_rus": "А была ли у него голова?",
+    "proverb_ids": [228, 926, 1001, 1047]
+  },
+  {
+    "file": "p_048.html",
+    "num": "№ 48",
+    "title_rus": "Если бы в голове были мозги",
+    "proverb_ids": [1379, 2072]
+  },
+  {
+    "file": "p_049.html",
+    "num": "№ 49",
+    "title_rus": "Зять, сходивший в горы",
+    "proverb_ids": [1652, 2076]
+  },
+  {
+    "file": "p_050.html",
+    "num": "№ 50",
+    "title_rus": "Сними с нее палас",
+    "proverb_ids": [1941, 1072]
+  },
+  {
+    "file": "p_051.html",
+    "num": "№ 51",
+    "title_rus": "Что стало с мухами",
+    "proverb_ids": [1035]
+  },
+  {
+    "file": "p_052.html",
+    "num": "№ 52",
+    "title_rus": "Когда нет согласия",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_053.html",
+    "num": "№ 53",
+    "title_rus": "Что случилось с ослом",
+    "proverb_ids": [627, 682, 711]
+  },
+  {
+    "file": "p_054.html",
+    "num": "№ 54",
+    "title_rus": "Теперь можно скушать этот курдюк",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_055.html",
+    "num": "№ 55",
+    "title_rus": "Когда лезешь не в свое дело…",
+    "proverb_ids": [28, 1432]
+  },
+  {
+    "file": "p_056.html",
+    "num": "№ 56",
+    "title_rus": "Готов умереть в бою",
+    "proverb_ids": [1732, 2075]
+  },
+  {
+    "file": "p_057.html",
+    "num": "№ 57",
+    "title_rus": "Из уст хорошего человека лишь доброе слово услышишь",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_058.html",
+    "num": "№ 58",
+    "title_rus": "Звероподобные",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_059.html",
+    "num": "№ 59",
+    "title_rus": "Я бы даже из ада огонь принес",
+    "proverb_ids": [1921]
+  },
+  {
+    "file": "p_060.html",
+    "num": "№ 60",
+    "title_rus": "Решила ворона гнездо поменять",
+    "proverb_ids": [867, 1872]
+  },
+  {
+    "file": "p_061.html",
+    "num": "№ 61",
+    "title_rus": "Тебе самой не трудно?",
+    "proverb_ids": [951]
+  },
+  {
+    "file": "p_062.html",
+    "num": "№ 62",
+    "title_rus": "Выстрелил в реку Фарту",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_063.html",
+    "num": "№ 63",
+    "title_rus": "Как умер Буга",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_064.html",
+    "num": "№ 64",
+    "title_rus": "Не буду больше никогда делать кольчуги",
+    "proverb_ids": [1421, 1439]
+  },
+  {
+    "file": "p_065.html",
+    "num": "№ 65",
+    "title_rus": "Кощунство",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_066.html",
+    "num": "№ 66",
+    "title_rus": "Он отомстит за меня",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_067.html",
+    "num": "№ 67",
+    "title_rus": "Что самое худшее",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_068.html",
+    "num": "№ 68",
+    "title_rus": "У тебя много друзей",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_069.html",
+    "num": "№ 69",
+    "title_rus": "Палку надо было положить",
+    "proverb_ids": [1633, 1924]
+  },
+  {
+    "file": "p_070.html",
+    "num": "№ 70",
+    "title_rus": "Суд должен быть справедливым",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_071.html",
+    "num": "№ 71",
+    "title_rus": "На нее не попало…",
+    "proverb_ids": [495, 1649]
+  },
+  {
+    "file": "p_072.html",
+    "num": "№ 72",
+    "title_rus": "Ответная шутка",
+    "proverb_ids": [643]
+  },
+  {
+    "file": "p_073.html",
+    "num": "№ 73",
+    "title_rus": "Возмездие неминуемо",
+    "proverb_ids": [1504, 2030]
+  },
+  {
+    "file": "p_074.html",
+    "num": "№ 74",
+    "title_rus": "Большой вред",
+    "proverb_ids": [1039]
+  },
+  {
+    "file": "p_075.html",
+    "num": "№ 75",
+    "title_rus": "Дети рождаются в свою мать",
+    "proverb_ids": [130, 235, 620, 769]
+  },
+  {
+    "file": "p_076.html",
+    "num": "№ 76",
+    "title_rus": "Когда приходит Смерть, и сына забывают",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_077.html",
+    "num": "№ 77",
+    "title_rus": "Кого больше?",
+    "proverb_ids": [617, 697, 916, ]
+  },
+  {
+    "file": "p_078.html",
+    "num": "№ 78",
+    "title_rus": "Длина жизни",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_079.html",
+    "num": "№ 79",
+    "title_rus": "Сказал пророк Сулейман",
+    "proverb_ids": [1045]
+  },
+  {
+    "file": "p_080.html",
+    "num": "№ 80",
+    "title_rus": "Тебе было много оповещений",
+    "proverb_ids": [2065, 2066]
+  },
+  {
+    "file": "p_081.html",
+    "num": "№ 81",
+    "title_rus": "Завещание сына",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_082.html",
+    "num": "№ 82",
+    "title_rus": "За то, что высоко чтил гостей",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_083.html",
+    "num": "№ 83",
+    "title_rus": "Потаенное всегда становится явным",
+    "proverb_ids": [1733]
+  },
+  {
+    "file": "p_084.html",
+    "num": "№ 84",
+    "title_rus": "Надо заставить себя уважать",
+    "proverb_ids": [921, 1161, 1693, 1879]
+  },
+  {
+    "file": "p_085.html",
+    "num": "№ 85",
+    "title_rus": "Если друг хороший",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_086.html",
+    "num": "№ 86",
+    "title_rus": "Кувшинчик с маслом мне достался",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_087.html",
+    "num": "№ 87",
+    "title_rus": "Несут наш рубль",
+    "proverb_ids": [935]
+  },
+  {
+    "file": "p_088.html",
+    "num": "№ 88",
+    "title_rus": "Волки и вороны",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_089.html",
+    "num": "№ 89",
+    "title_rus": "Надо знать, с кем дружить",
+    "proverb_ids": [983]
+  },
+  {
+    "file": "p_090.html",
+    "num": "№ 90",
+    "title_rus": "Волчьи проклятия",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_091.html",
+    "num": "№ 91",
+    "title_rus": "Не буду учить своему языку",
+    "proverb_ids": [728]
+  },
+  {
+    "file": "p_092.html",
+    "num": "№ 92",
+    "title_rus": "Мы села не обоснуем",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_093.html",
+    "num": "№ 93",
+    "title_rus": "О гостеприимстве",
+    "proverb_ids": [1613]
+  },
+  {
+    "file": "p_094.html",
+    "num": "№ 94",
+    "title_rus": "Гостеприимство превыше мести",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_095.html",
+    "num": "№ 95",
+    "title_rus": "Гостей не разделяют",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_096.html",
+    "num": "№ 96",
+    "title_rus": "Самый тяжкий день",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_097.html",
+    "num": "№ 97",
+    "title_rus": "Живые должны жить и веселиться",
+    "proverb_ids": [582, 1587]
+  },
+  {
+    "file": "p_098.html",
+    "num": "№ 98",
+    "title_rus": "Лев сказал волку",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_099.html",
+    "num": "№ 99",
+    "title_rus": "Умирая, медведь сказал…",
+    "proverb_ids": [253]
+  },
+  {
+    "file": "p_100.html",
+    "num": "№ 100",
+    "title_rus": "Волчьи десны сильнее",
+    "proverb_ids": [888, 890, 1727]
+  },
+  {
+    "file": "p_101.html",
+    "num": "№ 101",
+    "title_rus": "Нехорошо ты поступил",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_102.html",
+    "num": "№ 102",
+    "title_rus": "Я ему ничего хорошего не сделал",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_103.html",
+    "num": "№ 103",
+    "title_rus": "Не различайте людей по их религии",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_104.html",
+    "num": "№ 104",
+    "title_rus": "Благородство весьма почитается",
+    "proverb_ids": [348, 352]
+  },
+  {
+    "file": "p_105.html",
+    "num": "№ 105",
+    "title_rus": "Самим заработанное дороже",
+    "proverb_ids": [973, 1120, 1385, 2105]
+  },
+  {
+    "file": "p_106.html",
+    "num": "№ 106",
+    "title_rus": "Ты нужнее всех",
+    "proverb_ids": [971, 1014, 1847]
+  },
+  {
+    "file": "p_107.html",
+    "num": "№ 107",
+    "title_rus": "Мышка сказала лягушке",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_108.html",
+    "num": "№ 108",
+    "title_rus": "Не возьмешь того, чего нет",
+    "proverb_ids": [757]
+  },
+  {
+    "file": "p_109.html",
+    "num": "№ 109",
+    "title_rus": "Все ем с медом",
+    "proverb_ids": [442, 1071]
+  },
+  {
+    "file": "p_110.html",
+    "num": "№ 110",
+    "title_rus": "Ты попадешь в рай",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_111.html",
+    "num": "№ 111",
+    "title_rus": "Бережливость",
+    "proverb_ids": [1944]
+  },
+  {
+    "file": "p_112.html",
+    "num": "№ 112",
+    "title_rus": "Цена хлеба",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_113.html",
+    "num": "№ 113",
+    "title_rus": "Пастух сказал",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_114.html",
+    "num": "№ 114",
+    "title_rus": "Ты будешь свистеть",
+    "proverb_ids": [841]
+  },
+  {
+    "file": "p_115.html",
+    "num": "№ 115",
+    "title_rus": "Сначала надо воду подвести",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_116.html",
+    "num": "№ 116",
+    "title_rus": "Я больше не хожу на собрания",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_117.html",
+    "num": "№ 117",
+    "title_rus": "Если бы это сделал я",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_118.html",
+    "num": "№ 118",
+    "title_rus": "Раззявила пасть",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_119.html",
+    "num": "№ 119",
+    "title_rus": "Баран научился",
+     "proverb_ids": []
+ },
+  {
+    "file": "p_120.html",
+    "num": "№ 120",
+    "title_rus": "Мышь спасла волка",
+    "proverb_ids": [117]
+  },
+  {
+    "file": "p_121.html",
+    "num": "№ 121",
+    "title_rus": "Красивые рога и некрасивые ноги",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_122.html",
+    "num": "№ 122",
+    "title_rus": "Даже Бог не сможет угодить всем",
+    "proverb_ids": [135, 1018, 1086]
+  },
+  {
+    "file": "p_123.html",
+    "num": "№ 123",
+    "title_rus": "Молиться надо с душою",
+    "proverb_ids": [1483]
+  },
+  {
+    "file": "p_124.html",
+    "num": "№ 124",
+    "title_rus": "Именно ты настоящий хаджи",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_125.html",
+    "num": "№ 125",
+    "title_rus": "Грех не дать подаяния",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_126.html",
+    "num": "№ 126",
+    "title_rus": "Скрывай свои недостатки",
+    "proverb_ids": [107, 1465]
+  },
+  {
+    "file": "p_127.html",
+    "num": "№ 127",
+    "title_rus": "Есть и трусливее нас",
+    "proverb_ids": [245]
+  },
+  {
+    "file": "p_128.html",
+    "num": "№ 128",
+    "title_rus": "Она ходит по харчевням",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_129.html",
+    "num": "№ 129",
+    "title_rus": "Она ищет пустое место",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_130.html",
+    "num": "№ 130",
+    "title_rus": "Грех пророка Дауда",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_131.html",
+    "num": "№ 131",
+    "title_rus": "Выбирай",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_132.html",
+    "num": "№ 132",
+    "title_rus": "Пить надо в меру",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_133.html",
+    "num": "№ 133",
+    "title_rus": "Кудахтают там, где несутся",
+    "proverb_ids": [1142]
+  },
+  {
+    "file": "p_134.html",
+    "num": "№ 134",
+    "title_rus": "Ты своим языком убьешь человека",
+    "proverb_ids": [1420]
+  },
+  {
+    "file": "p_135.html",
+    "num": "№ 135",
+    "title_rus": "Превратилась в голубку",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_136.html",
+    "num": "№ 136",
+    "title_rus": "Упаси нас от сытых муталимов",
+    "proverb_ids": [1100]
+  },
+  {
+    "file": "p_137.html",
+    "num": "№ 137",
+    "title_rus": "Хоть немножко, но и самому надо постараться",
+    "proverb_ids": [1203]
+  },
+  {
+    "file": "p_138.html",
+    "num": "№ 138",
+    "title_rus": "Не делай другому плохого",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_139.html",
+    "num": "№ 139",
+    "title_rus": "За подлость воздается подлецу",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_140.html",
+    "num": "№ 140",
+    "title_rus": "Медведь сказал",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_141.html",
+    "num": "№ 141",
+    "title_rus": "Его несут к тебе",
+    "proverb_ids": [556]
+  },
+  {
+    "file": "p_142.html",
+    "num": "№ 142",
+    "title_rus": "Вскоре мы узнаем его",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_143.html",
+    "num": "№ 143",
+    "title_rus": "Невозможно наполнить желудок человека",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_144.html",
+    "num": "№ 144",
+    "title_rus": "Безмерна человеческая жадность",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_145.html",
+    "num": "№ 145",
+    "title_rus": "Спор из-за земли",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_146.html",
+    "num": "№ 146",
+    "title_rus": "Как появились крысы",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_147.html",
+    "num": "№ 147",
+    "title_rus": "Как появились крысы",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_148.html",
+    "num": "№ 148",
+    "title_rus": "Черное сердце и сладкие речи",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_149.html",
+    "num": "№ 149",
+    "title_rus": "Река Асса и ручеек",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_150.html",
+    "num": "№ 150",
+    "title_rus": "Два брата-горца",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_151.html",
+    "num": "№ 151",
+    "title_rus": "Возмездие будет",
+    "proverb_ids": [421, 346, 1954]
+  },
+  {
+    "file": "p_152.html",
+    "num": "№ 152",
+    "title_rus": "Сидяший наверху все поправит",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_153.html",
+    "num": "№ 153",
+    "title_rus": "Если бы цари не сменялись",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_154.html",
+    "num": "№ 154",
+    "title_rus": "О чем взмолился старик",
+    "proverb_ids": [2084]
+  },
+  {
+    "file": "p_155.html",
+    "num": "№ 155",
+    "title_rus": "Могила ответила",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_156.html",
+    "num": "№ 156",
+    "title_rus": "Ответ камня",
+    "proverb_ids": [1815]
+  },
+  {
+    "file": "p_157.html",
+    "num": "№ 157",
+    "title_rus": "Такого человека быть не может",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_158.html",
+    "num": "№ 158",
+    "title_rus": "Чинара заплакала",
+    "proverb_ids": [1046]
+  },
+  {
+    "file": "p_159.html",
+    "num": "№ 159",
+    "title_rus": "Благородное поведение и спокойствие",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_160.html",
+    "num": "№ 160",
+    "title_rus": "Ответ девушки",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_161.html",
+    "num": "№ 161",
+    "title_rus": "За ним мы стояли",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_162.html",
+    "num": "№ 162",
+    "title_rus": "Уважение к благородству",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_163.html",
+    "num": "№ 163",
+    "title_rus": "Наша, ваша",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_164.html",
+    "num": "№ 164",
+    "title_rus": "Маленьких хороним по двое-трое",
+    "proverb_ids": [1800]
+  },
+  {
+    "file": "p_165.html",
+    "num": "№ 165",
+    "title_rus": "Пусть отец не забудет",
+    "proverb_ids": [460]
+  },
+  {
+    "file": "p_166.html",
+    "num": "№ 166",
+    "title_rus": "Хотя и есть мать, но без жены не обойтись",
+    "proverb_ids": [626, 2104]
+  },
+  {
+    "file": "p_167.html",
+    "num": "№ 167",
+    "title_rus": "Тяжелый день",
+    "proverb_ids": [314, 428, 743]
+  },
+  {
+    "file": "p_168.html",
+    "num": "№ 168",
+    "title_rus": "Коварный завет",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_169.html",
+    "num": "№ 169",
+    "title_rus": "Как мужчине завоевать уважение в своей стране",
+    "proverb_ids": [1166]
+  },
+  {
+    "file": "p_170.html",
+    "num": "№ 170",
+    "title_rus": "Мужество Сурхо, сына Ады",
+    "proverb_ids": []
+  },
+  {
+    "file": "p_171.html",
+    "num": "№ 171",
+    "title_rus": "О любви к своей родине",
+    "proverb_ids": [1066, 1165]
+  }
+]
