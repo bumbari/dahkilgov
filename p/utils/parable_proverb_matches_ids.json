@@ -9,13 +9,13 @@
     "file": "p_002.html",
     "num": "№ 2",
     "title_rus": "Гибель Пиръона",
-    "proverb_ids": [403, 1250, 1251, 1257, 1544, 1655]
+    "proverb_ids": [403, 880, 903, 1220, 1250, 1251, 1257, 1348, 1544, 1655, 1834, 1991]
   },
   {
     "file": "p_003.html",
     "num": "№ 3",
     "title_rus": "Утерянную честь не вернуть",
-    "proverb_ids": [208, 396, 497, 586, 1266, 1371, 1741, 1829]
+    "proverb_ids": [208, 396, 497, 586, 779, 1266, 1371, 1741, 1829]
   },
   {
     "file": "p_004.html",
@@ -33,19 +33,19 @@
     "file": "p_006.html",
     "num": "№ 6",
     "title_rus": "Неприкаянная ворона",
-    "proverb_ids": [80, 783, 1411, 1471, 1516, 1651, 1868]
+    "proverb_ids": [80, 783, 1230, 1411, 1471, 1516, 1607, 1651, 1868]
   },
   {
     "file": "p_007.html",
     "num": "№ 7",
     "title_rus": "Осел, стремившийся стать лошадью",
-    "proverb_ids": [229, 232, 236, 238, 246, 255, 349, 494, 688, 950, 1835]
+    "proverb_ids": [144, 229, 232, 236, 238, 246, 255, 349, 494, 688, 950, 1835]
   },
   {
     "file": "p_008.html",
     "num": "№ 8",
     "title_rus": "Осел, захотевший стать львом",
-    "proverb_ids": [239, 984, 1293, 1349]
+    "proverb_ids": [239, 984, 1293, 1349, 1936]
   },
   {
     "file": "p_009.html",
@@ -63,25 +63,25 @@
     "file": "p_011.html",
     "num": "№ 11",
     "title_rus": "Жеребчиком выпитое молоко",
-    "proverb_ids": [240, 959, 1632, 1942]
+    "proverb_ids": [240, 959, 1626, 1632, 1942, 1957]
   },
   {
     "file": "p_012.html",
     "num": "№ 12",
     "title_rus": "За то, что вы ему потворствуете",
-    "proverb_ids": [230, 1141, 2003]
+    "proverb_ids": [3, 230, 1065, 1141, 1155, 1186, 2003]
   },
   {
     "file": "p_013.html",
     "num": "№ 13",
     "title_rus": "Шесть лепешек",
-    "proverb_ids": [1223, 1341]
+    "proverb_ids": [767, 1223, 1029, 1341]
   },
   {
     "file": "p_014.html",
     "num": "№ 14",
     "title_rus": "И я люблю своего сына",
-    "proverb_ids": [247, 2077]
+    "proverb_ids": [247, 910, 2077]
   },
   {
     "file": "p_015.html",
@@ -93,13 +93,13 @@
     "file": "p_016.html",
     "num": "№ 16",
     "title_rus": "Рука матери",
-    "proverb_ids": []
+    "proverb_ids": [1263]
   },
   {
     "file": "p_017.html",
     "num": "№ 17",
     "title_rus": "Как отец сыну невесту выбрал",
-    "proverb_ids": [112, 1459]
+    "proverb_ids": [112, 687, 771, 1030, 1459]
   },
   {
     "file": "p_018.html",
@@ -111,7 +111,7 @@
     "file": "p_019.html",
     "num": "№ 19",
     "title_rus": "Тайный совет отца",
-    "proverb_ids": []
+    "proverb_ids": [1990]
   },
   {
     "file": "p_020.html",
@@ -123,7 +123,7 @@
     "file": "p_021.html",
     "num": "№ 21",
     "title_rus": "Мои снохи хорошие",
-    "proverb_ids": [603]
+    "proverb_ids": [458, 603, 742, 1031, 1191, 1216, 1399]
   },
   {
     "file": "p_022.html",
@@ -135,7 +135,7 @@
     "file": "p_023.html",
     "num": "№ 23",
     "title_rus": "Твои сыновья не сделают того, что ты не сделал",
-    "proverb_ids": [1474]
+    "proverb_ids": [713, 851, 1330, 1474, 1529]
   },
   {
     "file": "p_024.html",
@@ -147,7 +147,7 @@
     "file": "p_025.html",
     "num": "№ 25",
     "title_rus": "Изгнание напавших",
-    "proverb_ids": [75, 351, 353, 912, 1103, 1948]
+    "proverb_ids": [75, 351, 353, 681, 912, 1103, 1948]
   },
   {
     "file": "p_026.html",
@@ -165,19 +165,19 @@
     "file": "p_028.html",
     "num": "№ 28",
     "title_rus": "Оказывается, ты косоглазый",
-    "proverb_ids": [447, 1340, 1908]
+    "proverb_ids": [447, 1340, 1513, 1577, 1908]
   },
   {
     "file": "p_029.html",
     "num": "№ 29",
     "title_rus": "Мужчина, который храбр перед женой",
-    "proverb_ids": [342, 922, 1342, 1345]
+    "proverb_ids": [342, 712, 922, 1342, 1345]
   },
   {
     "file": "p_030.html",
     "num": "№ 30",
     "title_rus": "Настоящий мужчина с женами не дерется",
-    "proverb_ids": [252, 1343, 1987]
+    "proverb_ids": [252, 1336, 1343, 1987]
   },
   {
     "file": "p_031.html",
@@ -189,19 +189,19 @@
     "file": "p_032.html",
     "num": "№ 32",
     "title_rus": "Правда сильна",
-    "proverb_ids": [1514]
+    "proverb_ids": [764, 1514, 1683]
   },
   {
     "file": "p_033.html",
     "num": "№ 33",
     "title_rus": "О хорошей жене",
-    "proverb_ids": []
+    "proverb_ids": [542]
   },
   {
     "file": "p_034.html",
     "num": "№ 34",
     "title_rus": "Вопросы Шамиля",
-    "proverb_ids": [250]
+    "proverb_ids": [250, 753]
   },
   {
     "file": "p_035.html",
@@ -219,7 +219,7 @@
     "file": "p_037.html",
     "num": "№ 37",
     "title_rus": "Возвращение Благодати",
-    "proverb_ids": [1882, 1947]
+    "proverb_ids": [156, 461, 462, 1882, 1947]
   },
   {
     "file": "p_038.html",
@@ -249,7 +249,7 @@
     "file": "p_042.html",
     "num": "№ 42",
     "title_rus": "Я боюсь, что из-за тебя мне влетит",
-    "proverb_ids": [1092]
+    "proverb_ids": [641, 801, 1060, 1092, 2062]
   },
   {
     "file": "p_043.html",
@@ -261,7 +261,7 @@
     "file": "p_044.html",
     "num": "№ 44",
     "title_rus": "Подушку положил в ногах",
-    "proverb_ids": [788, 1855, 2071, 2086]
+    "proverb_ids": [448, 788, 1855, 2071, 2086]
   },
   {
     "file": "p_045.html",
@@ -273,7 +273,7 @@
     "file": "p_046.html",
     "num": "№ 46",
     "title_rus": "Делай то, чего не сделать нельзя",
-    "proverb_ids": [550, 718, 1550, 1717]
+    "proverb_ids": [550, 718, 719, 829, 1550, 1717]
   },
   {
     "file": "p_047.html",
@@ -285,7 +285,7 @@
     "file": "p_048.html",
     "num": "№ 48",
     "title_rus": "Если бы в голове были мозги",
-    "proverb_ids": [1379, 2072]
+    "proverb_ids": [806, 909, 1379, 2072]
   },
   {
     "file": "p_049.html",
@@ -315,7 +315,7 @@
     "file": "p_053.html",
     "num": "№ 53",
     "title_rus": "Что случилось с ослом",
-    "proverb_ids": [627, 682, 711]
+    "proverb_ids": [627, 682, 711, 859, 1830]
   },
   {
     "file": "p_054.html",
@@ -327,13 +327,13 @@
     "file": "p_055.html",
     "num": "№ 55",
     "title_rus": "Когда лезешь не в свое дело…",
-    "proverb_ids": [28, 1432]
+    "proverb_ids": [28, 508, 864, 1229, 1432, 1718]
   },
   {
     "file": "p_056.html",
     "num": "№ 56",
     "title_rus": "Готов умереть в бою",
-    "proverb_ids": [1732, 2075]
+    "proverb_ids": [1438, 1732, 2075]
   },
   {
     "file": "p_057.html",
@@ -357,7 +357,7 @@
     "file": "p_060.html",
     "num": "№ 60",
     "title_rus": "Решила ворона гнездо поменять",
-    "proverb_ids": [867, 1872]
+    "proverb_ids": [867, 872, 1872]
   },
   {
     "file": "p_061.html",
@@ -375,7 +375,7 @@
     "file": "p_063.html",
     "num": "№ 63",
     "title_rus": "Как умер Буга",
-    "proverb_ids": []
+    "proverb_ids": [0, 473, 714, 906]
   },
   {
     "file": "p_064.html",
@@ -393,7 +393,7 @@
     "file": "p_066.html",
     "num": "№ 66",
     "title_rus": "Он отомстит за меня",
-    "proverb_ids": []
+    "proverb_ids": [543]
   },
   {
     "file": "p_067.html",
@@ -411,13 +411,13 @@
     "file": "p_069.html",
     "num": "№ 69",
     "title_rus": "Палку надо было положить",
-    "proverb_ids": [1633, 1924]
+    "proverb_ids": [722, 1633, 1924]
   },
   {
     "file": "p_070.html",
     "num": "№ 70",
     "title_rus": "Суд должен быть справедливым",
-    "proverb_ids": []
+    "proverb_ids": [23, 831]
   },
   {
     "file": "p_071.html",
@@ -429,37 +429,37 @@
     "file": "p_072.html",
     "num": "№ 72",
     "title_rus": "Ответная шутка",
-    "proverb_ids": [643]
+    "proverb_ids": [643, 1107]
   },
   {
     "file": "p_073.html",
     "num": "№ 73",
     "title_rus": "Возмездие неминуемо",
-    "proverb_ids": [1504, 2030]
+    "proverb_ids": [1406, 1504, 2030]
   },
   {
     "file": "p_074.html",
     "num": "№ 74",
     "title_rus": "Большой вред",
-    "proverb_ids": [1039]
+    "proverb_ids": [445, 786, 1039, 1782, 1997]
   },
   {
     "file": "p_075.html",
     "num": "№ 75",
     "title_rus": "Дети рождаются в свою мать",
-    "proverb_ids": [130, 235, 620, 769]
+    "proverb_ids": [130, 235, 320, 620, 769, 849, 1712, 2051]
   },
   {
     "file": "p_076.html",
     "num": "№ 76",
     "title_rus": "Когда приходит Смерть, и сына забывают",
-    "proverb_ids": []
+    "proverb_ids": [945]
   },
   {
     "file": "p_077.html",
     "num": "№ 77",
     "title_rus": "Кого больше?",
-    "proverb_ids": [617, 697, 916, ]
+    "proverb_ids": [617, 697, 916, 1079]
   },
   {
     "file": "p_078.html",
@@ -483,7 +483,7 @@
     "file": "p_081.html",
     "num": "№ 81",
     "title_rus": "Завещание сына",
-    "proverb_ids": []
+    "proverb_ids": [1183]
   },
   {
     "file": "p_082.html",
@@ -495,25 +495,25 @@
     "file": "p_083.html",
     "num": "№ 83",
     "title_rus": "Потаенное всегда становится явным",
-    "proverb_ids": [1733]
+    "proverb_ids": [392, 846, 1733]
   },
   {
     "file": "p_084.html",
     "num": "№ 84",
     "title_rus": "Надо заставить себя уважать",
-    "proverb_ids": [921, 1161, 1693, 1879]
+    "proverb_ids": [789, 921, 1161, 1693, 1879]
   },
   {
     "file": "p_085.html",
     "num": "№ 85",
     "title_rus": "Если друг хороший",
-    "proverb_ids": []
+    "proverb_ids": [5, 1403]
   },
   {
     "file": "p_086.html",
     "num": "№ 86",
     "title_rus": "Кувшинчик с маслом мне достался",
-    "proverb_ids": []
+    "proverb_ids": [453, 781]
   },
   {
     "file": "p_087.html",
@@ -549,7 +549,7 @@
     "file": "p_092.html",
     "num": "№ 92",
     "title_rus": "Мы села не обоснуем",
-    "proverb_ids": []
+    "proverb_ids": [1960]
   },
   {
     "file": "p_093.html",
@@ -579,25 +579,25 @@
     "file": "p_097.html",
     "num": "№ 97",
     "title_rus": "Живые должны жить и веселиться",
-    "proverb_ids": [582, 1587]
+    "proverb_ids": [368, 582, 1288, 1587]
   },
   {
     "file": "p_098.html",
     "num": "№ 98",
     "title_rus": "Лев сказал волку",
-    "proverb_ids": []
+    "proverb_ids": [1179]
   },
   {
     "file": "p_099.html",
     "num": "№ 99",
     "title_rus": "Умирая, медведь сказал…",
-    "proverb_ids": [253]
+    "proverb_ids": [253, 727, 1951]
   },
   {
     "file": "p_100.html",
     "num": "№ 100",
     "title_rus": "Волчьи десны сильнее",
-    "proverb_ids": [888, 890, 1727]
+    "proverb_ids": [92, 888, 890, 1727]
   },
   {
     "file": "p_101.html",
@@ -609,13 +609,13 @@
     "file": "p_102.html",
     "num": "№ 102",
     "title_rus": "Я ему ничего хорошего не сделал",
-    "proverb_ids": []
+    "proverb_ids": [745, 1967]
   },
   {
     "file": "p_103.html",
     "num": "№ 103",
     "title_rus": "Не различайте людей по их религии",
-    "proverb_ids": []
+    "proverb_ids": [1319, 1929]
   },
   {
     "file": "p_104.html",
@@ -627,13 +627,13 @@
     "file": "p_105.html",
     "num": "№ 105",
     "title_rus": "Самим заработанное дороже",
-    "proverb_ids": [973, 1120, 1385, 2105]
+    "proverb_ids": [12, 973, 1120, 1385, 2105]
   },
   {
     "file": "p_106.html",
     "num": "№ 106",
     "title_rus": "Ты нужнее всех",
-    "proverb_ids": [971, 1014, 1847]
+    "proverb_ids": [971, 1013, 1014, 1226, 1466, 1847]
   },
   {
     "file": "p_107.html",
@@ -645,13 +645,13 @@
     "file": "p_108.html",
     "num": "№ 108",
     "title_rus": "Не возьмешь того, чего нет",
-    "proverb_ids": [757]
+    "proverb_ids": [18, 336, 757, 901, 1409]
   },
   {
     "file": "p_109.html",
     "num": "№ 109",
     "title_rus": "Все ем с медом",
-    "proverb_ids": [442, 1071]
+    "proverb_ids": [442, 861, 1071, 1545]
   },
   {
     "file": "p_110.html",
@@ -663,7 +663,7 @@
     "file": "p_111.html",
     "num": "№ 111",
     "title_rus": "Бережливость",
-    "proverb_ids": [1944]
+    "proverb_ids": [1793, 1944]
   },
   {
     "file": "p_112.html",
@@ -729,7 +729,7 @@
     "file": "p_122.html",
     "num": "№ 122",
     "title_rus": "Даже Бог не сможет угодить всем",
-    "proverb_ids": [135, 1018, 1086]
+    "proverb_ids": [135, 758, 820, 1018, 1086]
   },
   {
     "file": "p_123.html",
@@ -753,7 +753,7 @@
     "file": "p_126.html",
     "num": "№ 126",
     "title_rus": "Скрывай свои недостатки",
-    "proverb_ids": [107, 1465]
+    "proverb_ids": [107, 621, 1465, 1705]
   },
   {
     "file": "p_127.html",
@@ -765,7 +765,7 @@
     "file": "p_128.html",
     "num": "№ 128",
     "title_rus": "Она ходит по харчевням",
-    "proverb_ids": []
+    "proverb_ids": [288, 1008]
   },
   {
     "file": "p_129.html",
@@ -789,7 +789,7 @@
     "file": "p_132.html",
     "num": "№ 132",
     "title_rus": "Пить надо в меру",
-    "proverb_ids": []
+    "proverb_ids": [1, 437, 1023, 1280, 1700]
   },
   {
     "file": "p_133.html",
@@ -813,7 +813,7 @@
     "file": "p_136.html",
     "num": "№ 136",
     "title_rus": "Упаси нас от сытых муталимов",
-    "proverb_ids": [1100]
+    "proverb_ids": [191, 1083, 1100]
   },
   {
     "file": "p_137.html",
@@ -825,7 +825,7 @@
     "file": "p_138.html",
     "num": "№ 138",
     "title_rus": "Не делай другому плохого",
-    "proverb_ids": []
+    "proverb_ids": [1021]
   },
   {
     "file": "p_139.html",
@@ -843,7 +843,7 @@
     "file": "p_141.html",
     "num": "№ 141",
     "title_rus": "Его несут к тебе",
-    "proverb_ids": [556]
+    "proverb_ids": [432, 556]
   },
   {
     "file": "p_142.html",
@@ -855,7 +855,7 @@
     "file": "p_143.html",
     "num": "№ 143",
     "title_rus": "Невозможно наполнить желудок человека",
-    "proverb_ids": []
+    "proverb_ids": [748, 1961]
   },
   {
     "file": "p_144.html",
@@ -878,8 +878,8 @@
   {
     "file": "p_147.html",
     "num": "№ 147",
-    "title_rus": "Как появились крысы",
-    "proverb_ids": []
+    "title_rus": "Курица, несущая золотые яйца",
+    "proverb_ids": [85, 809, 843]
   },
   {
     "file": "p_148.html",
@@ -909,7 +909,7 @@
     "file": "p_152.html",
     "num": "№ 152",
     "title_rus": "Сидяший наверху все поправит",
-    "proverb_ids": []
+    "proverb_ids": [860]
   },
   {
     "file": "p_153.html",
@@ -921,7 +921,7 @@
     "file": "p_154.html",
     "num": "№ 154",
     "title_rus": "О чем взмолился старик",
-    "proverb_ids": [2084]
+    "proverb_ids": [283, 2084]
   },
   {
     "file": "p_155.html",
@@ -957,13 +957,13 @@
     "file": "p_160.html",
     "num": "№ 160",
     "title_rus": "Ответ девушки",
-    "proverb_ids": []
+    "proverb_ids": [455, 823, 1116, 1584]
   },
   {
     "file": "p_161.html",
     "num": "№ 161",
     "title_rus": "За ним мы стояли",
-    "proverb_ids": []
+    "proverb_ids": [2]
   },
   {
     "file": "p_162.html",
@@ -975,13 +975,13 @@
     "file": "p_163.html",
     "num": "№ 163",
     "title_rus": "Наша, ваша",
-    "proverb_ids": []
+    "proverb_ids": [770]
   },
   {
     "file": "p_164.html",
     "num": "№ 164",
     "title_rus": "Маленьких хороним по двое-трое",
-    "proverb_ids": [1800]
+    "proverb_ids": [877, 1800]
   },
   {
     "file": "p_165.html",
@@ -993,7 +993,7 @@
     "file": "p_166.html",
     "num": "№ 166",
     "title_rus": "Хотя и есть мать, но без жены не обойтись",
-    "proverb_ids": [626, 2104]
+    "proverb_ids": [626, 1125, 1520, 2104]
   },
   {
     "file": "p_167.html",
@@ -1005,13 +1005,13 @@
     "file": "p_168.html",
     "num": "№ 168",
     "title_rus": "Коварный завет",
-    "proverb_ids": []
+    "proverb_ids": [1876]
   },
   {
     "file": "p_169.html",
     "num": "№ 169",
     "title_rus": "Как мужчине завоевать уважение в своей стране",
-    "proverb_ids": [1166]
+    "proverb_ids": [463, 1166]
   },
   {
     "file": "p_170.html",
