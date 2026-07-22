@@ -1,0 +1,23 @@
+It's actually 20 IDs appearing in multiple files, not 4 — my earlier estimate was off. Here they are:
+
+Proverb ID	Files
+55	p_083, p_099
+65	p_042, p_139
+110	p_066, p_158
+235	p_009, p_075
+524	p_058, p_063
+917	p_031, p_142
+998	p_136, p_143
+1021	p_069, p_138
+1245	p_158, p_161
+1305	p_017, p_065
+1317	p_077, p_142
+1409	p_108, p_139
+1566	p_106, p_168
+1579	p_019, p_020
+1828	p_054, p_145
+1951	p_099, p_140
+1991	p_002, p_135
+1995	p_001, p_135
+2060	p_001, p_058
+2064	p_066, p_100
