@@ -74,6 +74,7 @@ h2, h3 {
 pre i {
 	color: green;
 	font-weight: bold;
+	font-size: larger;
 }
 pre div {
 	display: inline;
